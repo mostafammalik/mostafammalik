@@ -11,10 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20%20developer;Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👋 Hi, I’m  mostafa mahmoud abd elmalik 
-- 👀 I’m interested in programming generally
-- 🌱 I’m currently learning C# programming python  , AI and machine learning 
-- 💞️ I’m looking to collaborate on ...
+Energetic and ambitious Computer Science student at FCI Luxor University with a passion for front-end development and Flutter. Proficient in Figma, GitHub, and Firebase. Excels in problem-solving and collaboration, with a strong foundation in SQL server. Seeking opportunities to apply my skills and contribute to innovative projects
 
 
 <a href="https://www.linkedin.com/in/mostafa-m-malik-77ab41232/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
