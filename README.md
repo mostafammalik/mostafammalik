@@ -11,13 +11,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20%20developer;Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-Energetic and ambitious Computer Science student at FCI Luxor University with a passion for front-end development and Flutter. Proficient in Figma, GitHub, and Firebase. Excels in problem-solving and collaboration, with a strong foundation in SQL server. Seeking opportunities to apply my skills and contribute to innovative projects
-
+Proficient .NET Developer who can build great and lage scale web application with ability to maintainence and 
+development with awareness of bussiness requirements  and customer needs
 
 <a href="https://www.linkedin.com/in/mostafa-m-malik-77ab41232/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/c++-05122A?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp)
+![Entity Framework](https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp)
+![MVC](https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp)
+![API](https://img.shields.io/badge/c%23-05122A?style=flat&logo=c-sharp)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
